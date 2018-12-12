@@ -1,0 +1,39 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/users-app-ui/dist
+/users-app-ui/tmp
+/out-tsc
+
+# dependencies
+/users-app-ui/node_modules
+
+# IDEs and editors
+/users-app-ui/.idea
+/users-app-ui/.project
+/users-app-ui/.classpath
+/users-app-ui/.c9/
+/users-app-ui/*.launch
+/users-app-ui/.settings/
+/users-app-ui/*.sublime-workspace
+
+# IDE - VSCode
+/users-app-ui/.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+/users-app-ui/.sass-cache
+/connect.lock
+/users-app-ui/coverage
+/users-app-ui/libpeerconnection.log
+/users-app-ui/npm-debug.log
+yarn-error.log
+testem.log
+/users-app-ui/typings
+
+# System Files
+/users-app-ui/.DS_Store
+/users-app-ui/Thumbs.db
