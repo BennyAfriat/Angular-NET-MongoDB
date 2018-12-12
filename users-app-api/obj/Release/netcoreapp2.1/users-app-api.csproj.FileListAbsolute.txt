@@ -1,0 +1,14 @@
+/Users/bennyaf/dev/Angular-NET-MongoDB/users-app-api/bin/Release/netcoreapp2.1/users-app-api.deps.json
+/Users/bennyaf/dev/Angular-NET-MongoDB/users-app-api/bin/Release/netcoreapp2.1/users-app-api.runtimeconfig.json
+/Users/bennyaf/dev/Angular-NET-MongoDB/users-app-api/bin/Release/netcoreapp2.1/users-app-api.runtimeconfig.dev.json
+/Users/bennyaf/dev/Angular-NET-MongoDB/users-app-api/bin/Release/netcoreapp2.1/users-app-api.dll
+/Users/bennyaf/dev/Angular-NET-MongoDB/users-app-api/bin/Release/netcoreapp2.1/users-app-api.pdb
+/Users/bennyaf/dev/Angular-NET-MongoDB/users-app-api/obj/Release/netcoreapp2.1/users-app-api.csproj.CoreCompileInputs.cache
+/Users/bennyaf/dev/Angular-NET-MongoDB/users-app-api/obj/Release/netcoreapp2.1/users-app-api.RazorAssemblyInfo.cache
+/Users/bennyaf/dev/Angular-NET-MongoDB/users-app-api/obj/Release/netcoreapp2.1/users-app-api.RazorAssemblyInfo.cs
+/Users/bennyaf/dev/Angular-NET-MongoDB/users-app-api/obj/Release/netcoreapp2.1/users-app-api.AssemblyInfoInputs.cache
+/Users/bennyaf/dev/Angular-NET-MongoDB/users-app-api/obj/Release/netcoreapp2.1/users-app-api.AssemblyInfo.cs
+/Users/bennyaf/dev/Angular-NET-MongoDB/users-app-api/obj/Release/netcoreapp2.1/users-app-api.RazorTargetAssemblyInfo.cache
+/Users/bennyaf/dev/Angular-NET-MongoDB/users-app-api/obj/Release/netcoreapp2.1/users-app-api.dll
+/Users/bennyaf/dev/Angular-NET-MongoDB/users-app-api/obj/Release/netcoreapp2.1/users-app-api.pdb
+/Users/bennyaf/dev/Angular-NET-MongoDB/users-app-api/obj/Release/netcoreapp2.1/users-app-api.csprojAssemblyReference.cache

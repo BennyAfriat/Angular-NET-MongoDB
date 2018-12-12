@@ -1,0 +1,17 @@
+version: "2"
+services:
+  api:
+    container_name: api
+    restart: always
+    build: ./users-app-api
+    ports:
+      - "5000:5000"
+    links:
+      - mongo
+  mongo:
+    container_name: mongo
+    image: mongo
+    volumes:
+      - ./mongodbData:/data/db
+    ports:
+      - "27017:27017"
