@@ -41,5 +41,5 @@ run command
 
 and after that's done run command
 
-`ng serve`
+`npm run start`
 
