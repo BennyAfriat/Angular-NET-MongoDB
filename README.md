@@ -13,11 +13,19 @@ Assuming you have mongoDB installed, execute the following command using mongod
 
 `./mongod --dbpath <FULL PATH TO CLONED REPO>/Angular-NET-MongoDB/mongodbData`
 
+If you prefer docker - use this to launch the DB using docker container
+
+`docker run -p 27017:27017 --name local-mongo -v <FULL PATH TO CLONED REPO>/Angular-NET-MongoDB/mongodbData:/data/db -d mongo`
+
 This will spin up the DB connected to the default port (27017)
 
 ## Start .net core webAPI
 
 run command while inside /users-app-api:
+
+`dotnet restore`
+
+`dotnet build`
 
 `dotnet run`
 
