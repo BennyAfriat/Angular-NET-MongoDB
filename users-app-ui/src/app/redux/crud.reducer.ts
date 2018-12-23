@@ -28,7 +28,7 @@ export const crudReducer: ActionReducer<AppStore> = (state: AppStore = initialSt
 
     case CrudActions.UPDATE_USER:
       let index = -1;
-      // clone users array with updated employee
+      // clone users array with updated user
       const users = state.users.map((user: User, idx: number) => {
         if (user.id === action.payload.id) {
           index = idx;
