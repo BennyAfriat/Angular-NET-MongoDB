@@ -29,12 +29,12 @@ export const crudReducer: ActionReducer<AppStore> = (state: AppStore = initialSt
     case CrudActions.UPDATE_USER:
       let index = -1;
       // clone users array with updated employee
-      const users = state.users.map((employee: User, idx: number) => {
-        if (employee.id === action.payload.id) {
+      const users = state.users.map((user: User, idx: number) => {
+        if (user.id === action.payload.id) {
           index = idx;
           return Object.assign({}, action.payload);
         }
-        return employee;
+        return user;
       });
 
       const selectedUser = index >= 0 ? users[index] : null;
